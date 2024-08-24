@@ -1,0 +1,18 @@
+.app-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 25px 10px 25px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  width: 150px;
+  height: 130px;
+}
+.app-item-image {
+  height: 55px;
+  width: 55px;
+}
